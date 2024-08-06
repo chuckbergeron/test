@@ -12,7 +12,7 @@
                 "useWalletButton": false,
                 "walletDownloadUrl": "https://token.im/download",
                 "iconUrl": "/imtoken.png",
-                "oneWeekPromoStep": "Deposit"
+                "oneWeekPromoStep": 1
             }
         ]
     },
@@ -29,7 +29,7 @@
                 "useWalletButton": false,
                 "walletDownloadUrl": "https://www.exodus.com/download/",
                 "iconUrl": "/exodus.png",
-                "oneWeekPromoStep": "Deposit"
+                "oneWeekPromoStep": 1
             }
         ]
     },
