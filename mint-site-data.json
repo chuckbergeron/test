@@ -1,0 +1,50 @@
+{
+    "imtoken": {
+        "id": "imtoken",
+        "name": "imToken",
+        "promotions": {
+            "1": {
+                "promoType": "OneWeekPromo",
+                "promoName": "imToken Promo #1",
+                "promoId": 1,
+                "appName": "PoolTogether x imToken",
+                "thirdwebContractAddress": "0x137EE9E95BC1d524Fd0B1e10cB7f4431252D1942",
+                "useWalletButton": false,
+                "walletDownloadUrl": "https://token.im/download",
+                "iconUrl": "/imtoken.png",
+                "oneWeekPromoStep": "Deposit"
+            }
+        }
+    },
+    "exodus": {
+        "id": "exodus",
+        "name": "Exodus",
+        "promotions": {
+            "1": {
+                "promoType": "OneWeekPromo",
+                "promoName": "Exodus Promo #1",
+                "promoId": 1,
+                "appName": "PoolTogether x Exodus",
+                "thirdwebContractAddress": "0xAE5Cef020c68745521CA72Df8cD7702e7dA7575f",
+                "useWalletButton": false,
+                "walletDownloadUrl": "https://www.exodus.com/download/",
+                "iconUrl": "/exodus.png",
+                "oneWeekPromoStep": "Deposit"
+            }
+        }
+    },
+    "onchain-summer": {
+        "id": "onchain-summer",
+        "name": "Onchain Summer",
+        "promotions": {
+            "1": {
+                "promoType": "OnchainSummer",
+                "promoName": "Onchain Summer Promo #1",
+                "promoId": 1,
+                "appName": "PoolTogether x Coinbase",
+                "thirdwebContractAddress": "0x0d7D21Ae700D0e3d9f320A26b4fF23F314F6d8C8",
+                "useWalletButton": true
+            }
+        }
+    }
+}
