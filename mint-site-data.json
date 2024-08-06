@@ -1,5 +1,5 @@
-{
-    "imtoken": {
+[
+    {
         "id": "imtoken",
         "name": "imToken",
         "promotions": {
@@ -16,7 +16,7 @@
             }
         }
     },
-    "exodus": {
+    {
         "id": "exodus",
         "name": "Exodus",
         "promotions": {
@@ -33,7 +33,7 @@
             }
         }
     },
-    "onchain-summer": {
+    {
         "id": "onchain-summer",
         "name": "Onchain Summer",
         "promotions": {
@@ -47,4 +47,4 @@
             }
         }
     }
-}
+]
